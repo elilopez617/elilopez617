@@ -8,11 +8,13 @@ I’m passionate about building resilient systems, automating processes, and pro
 
 On this GitHub, you’ll find a mix of scripts, tools, and labs related to network automation, cybersecurity, and infrastructure management.
 
-📎 Certifications:
+🎓 Certifications:
 
-CompTIA Security+
 
-Cisco CCNA
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia&logoColor=white)](https://www.credly.com/badges/784a87e9-20e3-4944-b48c-970a12a2f5b2/linked_in_profile)
+
+[![Cisco Certified Network Associate (CCNA)](https://img.shields.io/badge/Cisco-CCNA-blue?logo=cisco&logoColor=white)](https://www.credly.com/badges/97d90856-5ffc-49c8-8a90-)
+
 
 🔗 Connect with me on LinkedIn:
 
