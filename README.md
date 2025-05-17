@@ -22,6 +22,7 @@ On this GitHub, you’ll find a mix of scripts, tools, and labs related to netwo
 
 Let’s connect, collaborate, and secure the future—one packet at a time. 🔐🌐
 
+
 ## Objective
 
 This GitHub serves as a professional portfolio to showcase my knowledge, skills, and hands-on experience in the field. My goal is to provide real-world examples of my work and help hiring managers and recruiters better understand my technical capabilities and problem-solving mindset.
