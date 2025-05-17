@@ -13,8 +13,7 @@ On this GitHub, you’ll find a mix of scripts, tools, and labs related to netwo
 
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia&logoColor=white)](https://www.credly.com/badges/784a87e9-20e3-4944-b48c-970a12a2f5b2/linked_in_profile)
 
-[![Cisco Certified Network Associate (CCNA)](https://img.shields.io/badge/Cisco-CCNA-blue?logo=cisco&logoColor=white)](https://www.credly.com/badges/97d90856-5ffc-49c8-8a90-)
-
+[![Cisco Certified Network Associate (CCNA)](https://img.shields.io/badge/Cisco-CCNA-blue?logo=cisco&logoColor=white)](https://www.credly.com/badges/97d90856-5ffc-49c8-8a90-75aeba1ee8fa/linked_in_profile)
 
 🔗 Connect with me on LinkedIn:
 
