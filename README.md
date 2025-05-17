@@ -1,5 +1,6 @@
 # Hello, I'm Elias Lopez 
 
+
 👋 Hi there!
 I'm a Network and Security Engineer with experience in managing IT infrastructure, configuring and maintaining firewalls, and securing network environments—including specialized expertise in medical device networking and cybersecurity.
 
@@ -14,13 +15,14 @@ CompTIA Security+
 Cisco CCNA
 
 🔗 Connect with me on LinkedIn:
+
 <a href="https://www.linkedin.com/in/elias-j-lopez/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Let’s connect, collaborate, and secure the future—one packet at a time. 🔐🌐
-## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+## Objective
+
+This GitHub serves as a professional portfolio to showcase my knowledge, skills, and hands-on experience in the field. My goal is to provide real-world examples of my work and help hiring managers and recruiters better understand my technical capabilities and problem-solving mindset.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
