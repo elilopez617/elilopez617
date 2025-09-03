@@ -2,7 +2,8 @@
 
 
 👋 Hi there!
-I'm a Network and Security Engineer with experience in managing IT infrastructure, configuring and maintaining firewalls, and securing network environments—including specialized expertise in medical device networking and cybersecurity.
+
+I'm a current IT professional with 3 years of experience and a strong passion for networking and cybersecurity. My goal is to grow into a Network Engineer role and continue building secure, efficient network systems.
 
 I’m passionate about building resilient systems, automating processes, and protecting critical assets across enterprise and healthcare networks.
 
